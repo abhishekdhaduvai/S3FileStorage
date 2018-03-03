@@ -1,0 +1,33 @@
+* {
+  font-family: 'Roboto';
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+a {
+  text-decoration: none;
+  cursor: pointer;
+}
+
+table {
+  background: inherit !important;
+}
+
+th {
+  font-size: 18px !important;
+}
+
+td {
+  font-size: 15px !important;
+}
+

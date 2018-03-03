@@ -1,0 +1,12 @@
+---
+applications:
+  - name: my-blobstore
+    memory: 256M
+    buildpack: nodejs_buildpack
+    command: node server/app.js
+    path: dist
+env:
+    node_env: production
+    uaa_service_label : predix-uaa
+    #AWSKey: AWS-Key-Here
+    #AWSSecret: AWS-Secret-Here

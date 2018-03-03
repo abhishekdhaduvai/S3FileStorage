@@ -1,0 +1,7 @@
+{
+  "development": {
+    "appURL": "http://localhost:5000",
+    "accessKeyId": "{AWS-key-here}",
+    "secretAccessKey": "{AWS-secret-here}"
+  }
+}

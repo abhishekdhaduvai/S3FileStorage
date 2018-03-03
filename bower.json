@@ -1,0 +1,15 @@
+{
+  "name": "react-seed",
+  "authors": [
+    "Abhishek Dhaduvai <abhishek.dhaduvai1@gmail.com>"
+  ],
+  "dependencies": {
+    "px-spinner": "^2.2.1",
+    "px-branding-bar": "^1.1.1",
+    "px-key-value-pair": "^1.2.2"
+  },
+  "resolutions": {
+    "webcomponentsjs": "^v1.0.19"
+  },
+  "license": "MIT"
+}
